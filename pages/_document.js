@@ -4,9 +4,9 @@ export default function Document() {
   return (
     <Html>
       <Head>
-        <title>Ethereum Token Creation Tool</title>
-        <meta name="description" content="Create and launch your own meme token on Ethereum" />
-        <meta property="og:title" content="Launch Your Meme Coin on Ethereum" />
+        <title>Astar Token Creation Tool</title>
+        <meta name="description" content="Create and launch your own meme token on Astar" />
+        <meta property="og:title" content="Launch Your Meme Coin on Astar" />
         <meta property="og:description" content="Build and deploy a meme coin instantly. Fast, secure." />
         <meta property="og:url" content="/" />
         <meta property="og:type" content="website" />
